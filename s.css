@@ -1,0 +1,27 @@
+table{
+    border: 10px solid white;
+    border-collapse: collapse;
+    width: 700px;
+    height: 900px;
+}
+
+td,tr{
+    border:  solid 8px black;
+}
+
+
+.a3,.a6,.a13{
+    background-color: yellow;
+}
+
+.a5{
+    background-color: red;
+}
+
+.a10,.a17{
+    background-color: black;
+}
+
+.a15{
+    background-color: blue;
+}
